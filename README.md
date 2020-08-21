@@ -6,7 +6,7 @@ This application is in an early stage of development
 
 ## Installation
 
-Clone this repository and run prepared migrations.
+Clone this repository and run prepared migrations and seeds.
 
 ##Usage
 
